@@ -1,0 +1,11 @@
+*********************************
+*Ime:Marko			* 
+*Prezime:Markovic			*
+*Email:marko@gmail.com		*
+*Broj kupljenih karata:1		*
+*				*
+*				*
+*				*
+*				*
+*				*
+*********************************
